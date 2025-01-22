@@ -16,5 +16,5 @@ export const action = async ({ request }: Route.ActionArgs) => {
   // el schema va primero   👆🏼       ^el email después
 
   console.log("Nuevo suscriptor: ", email); // guardamos en DB
-  return { success: 1 };
+  return { confetti: 1 };
 };
