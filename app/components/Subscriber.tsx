@@ -16,8 +16,8 @@ export const Subscriber = () => {
         <p className="rounded-3xl bg-gradient-to-r from-green-700 to-green-950 p-8 text-md text-center">
           ¡Gracias por unirte! ☺️
           <br />
-          Ahora confirma tu correo para que empieces a recibir mis
-          correspondencia. 😉
+          Te envié un código para confirmar tu email. <br />
+          Dale clic para que comiences a recibir mis correos. 😉
         </p>
       </>
     );
